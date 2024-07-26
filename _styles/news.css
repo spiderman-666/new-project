@@ -1,0 +1,29 @@
+/* _styles/style.css */
+.news-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.news-item {
+    background: #f9f9f9;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.news-item a {
+    text-decoration: none;
+    color: #333;
+}
+
+.news-item h3 {
+    margin: 0;
+    font-size: 1.2em;
+}
+
+.news-item p {
+    margin: 10px 0 0;
+    color: #666;
+}

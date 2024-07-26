@@ -1,9 +1,9 @@
 # site properties and page defaults
-title: 天行 test
-subtitle: 
-description: 
-header: images/background.jpg
-footer: images/background.jpg
+title: 天行 test  #标题
+subtitle:        #副标题  
+description:     #站点的描述
+header: images/background.jpg #头部背景图片路径
+footer: images/background.jpg #尾部背景图片路径
 proofer: false
 
 # site social media and other links
