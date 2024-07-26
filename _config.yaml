@@ -2,8 +2,8 @@
 title: 天行 test
 subtitle: 
 description: 
-#header: images/background.jpg
-#footer: images/background.jpg
+header: 
+footer: 
 proofer: false
 
 # site social media and other links
