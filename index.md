@@ -70,6 +70,7 @@
   style="bare"
 %}
 
+
 {% endcapture %}
 
 {%
