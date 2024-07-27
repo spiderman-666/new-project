@@ -1,6 +1,6 @@
 ---
 layout: news
-title: 特朗普被枪击
+title: 特朗普被枪击 
 date: 2024-07-26
 ---
 
