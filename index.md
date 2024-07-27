@@ -1,22 +1,22 @@
 ---
 ---
 
-# 这是同济大学“人工智能+大气海洋”实验室的首页
+# spiderman-666DESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
 
 
 
 {% include section.html %}
 
-## 实验室介绍
+## Highlights
 
 {% capture text %}
 
-这里是同济大学“人工智能+大气海洋”实验室的相关成果介绍。
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
   link="research"
-  text="查看实验室已有成果"
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -28,18 +28,18 @@
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="相关成果"
+  title="Our Research"
   text=text
 %}
 
 {% capture text %}
 
-这里是同济大学“人工智能+大气海洋”实验室的研究团队介绍。
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
-  link="team"
-  text="查看研究团队介绍"
+  link="projects"
+  text="Browse our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -50,8 +50,8 @@
 {%
   include feature.html
   image="images/photo.jpg"
-  link="team"
-  title="研究团队"
+  link="projects"
+  title="Our Projects"
   flip=true
   style="bare"
   text=text
@@ -59,24 +59,23 @@
 
 {% capture text %}
 
-这里是同济大学“人工智能+大气海洋”实验室的相关新闻。
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
-  link="blog"
-  text="查看实验室新闻"
+  link="team"
+  text="Meet our team"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
-
 
 {% endcapture %}
 
 {%
   include feature.html
   image="images/photo.jpg"
-  link="blog"
-  title="新闻"
+  link="team"
+  title="Our Team"
   text=text
 %}
