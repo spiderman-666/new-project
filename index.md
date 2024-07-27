@@ -1,17 +1,30 @@
 ---
-layout: default
-title: 新闻
 ---
 
-<h2>新闻</h2>
-<div class="news-grid">
-    {% assign news_items = site.news | limit: 6 %}
-    {% for news in news_items %}
-        <div class="news-item">
-            <a href="{{ news.url }}">
-                <h3>{{ news.title }}</h3>
-                <p>{{ news.date | date: "%Y-%m-%d" }}</p>
-            </a>
-        </div>
-    {% endfor %}
-</div>
+{% include section.html %}
+
+## 新闻
+
+
+{% capture text %}
+
+这里是第一条新闻。
+
+{%
+  include button.html
+  link="news"
+  text="查看第一条新闻"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="news"
+  title="新闻"
+  text=text
+%}
