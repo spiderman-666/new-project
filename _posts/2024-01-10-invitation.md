@@ -1,6 +1,7 @@
 ---
 title: 人工智能新技术在台风预北务中的应用
 author: 国家气象中心
+image: images/photo1.jpg
 tag: 
   - 邀请函
   - 气候
