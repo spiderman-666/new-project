@@ -1,10 +1,6 @@
 ---
 title: 邀请函
-author: 长沙国防科技大学气象海洋学院
-tags:
-  - 会议
-  - 邀请函
-  - 气象
+image: images/photo8.png
 ---
 
 袁时金专家:  

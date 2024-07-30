@@ -1,9 +1,6 @@
 ---
 title: 2023 年气候预测与气候应用技术论坛邀请函
-author: 国家气候中心
-tag: 
-  - 邀请函
-  - 气候
+image: images/photo4.png
 ---
 
 尊敬的袁时金教授:您好  
