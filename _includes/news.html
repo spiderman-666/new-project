@@ -28,9 +28,6 @@
       {% assign excerpt = d.content | split: " " | slice: 0, 20 | join: " " %}
       {% assign excerpt = excerpt | append: "..." %}
 
-      <h2>{{ d.title }}</h2>
-      <p>{{ excerpt }}</p>
-
       {%
         include {{ include.component | append: ".html" }}
         affiliation=d.affiliation
