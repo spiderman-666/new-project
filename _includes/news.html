@@ -25,8 +25,7 @@
   {% for d in sorted_data %}
     <div class="news-item">
       {% assign style = d.style | default: include.style %}
-      {% assign excerpt = d.content | split: " " | slice: 0, 20 | join: " " %}
-      {% assign excerpt = excerpt | append: "..." %}
+      {% assign excerpt = d.content | truncate: 50, "..." %}
 
       {%
         include {{ include.component | append: ".html" }}
