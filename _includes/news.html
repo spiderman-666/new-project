@@ -18,10 +18,7 @@
     padding: 16px; /* 内边距 */
     box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* 阴影效果 */
     border-radius: 8px; /* 圆角效果 */
-    font-family: 'Arial', sans-serif; /* 正文字体 */
-    font-size: 16px; /* 正文字体大小 */
-    font-weight: normal; /* 正文字体粗细 */
-    color: #333; /* 正文字体颜色 */
+    background-color: #fff; /* 背景色 */
   }
   .year-heading {
     grid-column: span 3; /* 让年份标题占据整行 */
@@ -55,8 +52,48 @@
       <div class="year-heading">{{ current_year }}</div>
     {% endif %}
     <div class="news-item">
+      {% assign style = d.style | default: include.style %}
+      {% assign excerpt = d.content | truncate: 50, "..." %}
+      
+      <!-- 标题 -->
       <div class="news-title">{{ d.title }}</div>
-      <div class="news-content">{{ d.content | truncate: 50, "..." }}</div>
+      
+      <!-- 正文 -->
+      <div class="news-content">{{ excerpt }}</div>
+
+      {%
+        include {{ include.component | append: ".html" }}
+        affiliation=d.affiliation
+        author=d.author
+        authors=d.authors
+        buttons=d.buttons
+        caption=d.caption
+        content=d.content
+        date=d.date
+        description=d.description
+        excerpt=excerpt
+        height=d.height
+        icon=d.icon
+        id=d.id
+        image=d.image
+        last_modified_at=d.last_modified_at
+        link=d.link
+        lookup=d.lookup
+        name=d.name
+        publisher=d.publisher
+        repo=d.repo
+        role=d.role
+        slug=d.slug
+        style=style
+        subtitle=d.subtitle
+        tags=d.tags
+        text=d.text
+        title=d.title
+        tooltip=d.tooltip
+        type=d.type
+        url=d.url
+        width=d.width
+      %}
     </div>
   {% endfor %}
 </div>
