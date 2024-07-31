@@ -53,50 +53,10 @@
     {% if post_year != current_year %}
       {% assign current_year = post_year %}
       <div class="year-heading">{{ current_year }}</div>
-    {% endif %} 
+    {% endif %}
     <div class="news-item">
-      {% assign style = d.style | default: include.style %}
-      {% assign excerpt = d.content | truncate: 50, "..." %}
-      
-      <!-- 标题 -->
       <div class="news-title">{{ d.title }}</div>
-      
-      <!-- 正文 -->
-      <div class="news-content">{{ excerpt }}</div>
-
-      {%
-        include {{ include.component | append: ".html" }}
-        affiliation=d.affiliation
-        author=d.author
-        authors=d.authors
-        buttons=d.buttons
-        caption=d.caption
-        content=d.content
-        date=d.date
-        description=d.description
-        excerpt=excerpt
-        height=d.height
-        icon=d.icon
-        id=d.id
-        image=d.image
-        last_modified_at=d.last_modified_at
-        link=d.link
-        lookup=d.lookup
-        name=d.name
-        publisher=d.publisher
-        repo=d.repo
-        role=d.role
-        slug=d.slug
-        style=style
-        subtitle=d.subtitle
-        tags=d.tags
-        text=d.text
-        title=d.title
-        tooltip=d.tooltip
-        type=d.type
-        url=d.url
-        width=d.width
-      %}
+      <div class="news-content">{{ d.content | truncate: 50, "..." }}</div>
     </div>
   {% endfor %}
 </div>
