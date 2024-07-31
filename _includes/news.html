@@ -10,33 +10,21 @@
 <style>
   .news-container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* 每行三列 */
-    gap: 16px; /* 元素之间的间距 */
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 16px; 
   }
   .news-item {
-    border: 1px solid #ddd; /* 边框，可以根据需要调整 */
-    padding: 16px; /* 内边距 */
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* 阴影效果 */
-    border-radius: 8px; /* 圆角效果 */
+    border: 1px solid #ddd; 
+    padding: 16px; 
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); 
+    border-radius: 8px; 
   }
   .year-heading {
-    grid-column: span 3; /* 让年份标题占据整行 */
+    grid-column: span 3; 
     font-size: 24px;
     margin-top: 32px;
-  }
-  .news-title {
-    font-family: 'Georgia', serif; /* 标题字体 */
-    font-size: 20px; /* 标题字体大小 */
-    font-weight: bold; /* 标题字体粗细 */
-    color: #222; /* 标题字体颜色 */
-    margin-bottom: 8px; /* 标题底部间距 */
-  }
-  .news-content {
-    font-family: 'Arial', sans-serif; /* 正文字体 */
-    font-size: 16px; /* 正文字体大小 */
-    font-weight: normal; /* 正文字体粗细 */
-    color: #333; /* 正文字体颜色 */
-  }
+  } 
+  
 </style>
 
 <div class="news-container">
@@ -48,11 +36,6 @@
       <div class="year-heading">{{ current_year }}</div>
     {% endif %}
     <div class="news-item">
-      <!-- 标题 -->
-      <div class="news-title">{{ d.title }}</div>
-      
-      <!-- 正文 -->
-      <div class="news-content">{{ excerpt }}</div>
       {% assign style = d.style | default: include.style %}
       {% assign excerpt = d.content | truncate: 50, "..." %}
 
