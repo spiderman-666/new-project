@@ -18,28 +18,11 @@
     padding: 16px; /* 内边距 */
     box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* 阴影效果 */
     border-radius: 8px; /* 圆角效果 */
-    background-color: #fff; /* 背景色 */
   }
   .year-heading {
     grid-column: span 3; /* 让年份标题占据整行 */
-    font-family: 'Georgia', serif; /* 标题字体 */
-    font-size: 24px; /* 标题字体大小 */
-    font-weight: bold; /* 标题字体粗细 */
-    color: #555; /* 标题字体颜色 */
+    font-size: 24px;
     margin-top: 32px;
-  }
-  .news-title {
-    font-family: 'Georgia', serif; /* 标题字体 */
-    font-size: 20px; /* 标题字体大小 */
-    font-weight: bold; /* 标题字体粗细 */
-    color: #222; /* 标题字体颜色 */
-    margin-bottom: 8px; /* 标题底部间距 */
-  }
-  .news-content {
-    font-family: 'Arial', sans-serif; /* 正文字体 */
-    font-size: 16px; /* 正文字体大小 */
-    font-weight: normal; /* 正文字体粗细 */
-    color: #333; /* 正文字体颜色 */
   }
 </style>
 
@@ -54,12 +37,6 @@
     <div class="news-item">
       {% assign style = d.style | default: include.style %}
       {% assign excerpt = d.content | truncate: 50, "..." %}
-      
-      <!-- 标题 -->
-      <div class="news-title">{{ d.title }}</div>
-      
-      <!-- 正文 -->
-      <div class="news-content">{{ excerpt }}</div>
 
       {%
         include {{ include.component | append: ".html" }}
