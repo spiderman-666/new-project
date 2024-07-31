@@ -1,6 +1,6 @@
 ---
 title: 人工智能新技术在台风预北务中的应用
-image: images/photo1.jpg
+image: images/photo1.png
 ---
 - **时间**:2024年1月10日(周三)上午9:00-11:30  
 - **地点**:  
