@@ -18,3 +18,5 @@ nav:
 {% include search-info.html %}
 
 {% include news.html data="posts" component="post-excerpt" %}
+
+{% include foot.html %}

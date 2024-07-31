@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>联系我们</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+    .content {
+      flex: 1;
+    }
+    .footer {
+      background-color: #f1f1f1;
+      padding: 20px 0;
+    }
+    .contact-container {
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      padding: 20px;
+      max-width: 800px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .contact-info {
+      text-align: left;
+      flex: 1;
+    }
+    .contact-container h2 {
+      font-family: 'Georgia', serif;
+      font-size: 24px;
+      color: #333;
+      margin-bottom: 20px;
+    }
+    .contact-item {
+      margin-bottom: 15px;
+    }
+    .contact-item p {
+      margin: 5px 0;
+      color: #666;
+    }
+    .contact-item .highlight {
+      color: #007BFF; /* 高亮显示的颜色 */
+      font-weight: bold;
+    }
+    .contact-image {
+      margin-left: 20px;
+      flex-shrink: 0;
+    }
+    .contact-image img {
+      height: 100%; /* 动态调整高度 */
+      max-height: 100%; /* 确保图片不会超出容器高度 */
+      object-fit: contain; /* 保持图片宽高比 */
+    }
+  </style>
+</head>
+<body>
+
+<div class="content">
+  <!-- 页面主要内容 -->
+</div>
+
+<div class="footer">
+  <div class="contact-container">
+    <div class="contact-info">
+      <h2>联系我们</h2>
+      <div class="contact-item">
+        <p>地址：中国 上海曹安公路4800号同济大学软件学院</p>
+      </div>
+      <div class="contact-item">
+        <p>邮编：201804</p>
+      </div>
+      <div class="contact-item">
+        <p>
+          联系电话：
+          <span class="highlight">86-21-69589585</span>,
+          <span class="highlight">69589332(FAX)</span>
+        </p>
+      </div>
+    </div>
+    <div class="contact-image">
+      <img src="images/tongji.png" alt="联系图片"> <!-- 替换为你的图片路径 -->
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
