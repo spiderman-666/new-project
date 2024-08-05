@@ -13,7 +13,7 @@ nav:
 
 {% include search-box.html %}
 
-{% include tag.html tags=site.tags %}
+{% include tags.html tags=site.tags %}
 
 {% include search-info.html %}
 
