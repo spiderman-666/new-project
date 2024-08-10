@@ -541,6 +541,34 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 <h2 id="featured">Featured</h2>
 
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* 样式定义 */
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    .item {
+      flex: 1 1 30%; /* 每行三个元素，每个元素约占30%的宽度 */
+      box-sizing: border-box;
+      margin-right: 2%; /* 控制元素之间的水平间距 */
+      margin-bottom: 20px; /* 控制元素之间的垂直间距 */
+    }
+
+    /* 处理每行最后一个元素不需要右侧间距的情况 */
+    .item:nth-child(3n) {
+      margin-right: 0; /* 去掉每行最后一个元素的右侧间距 */
+    }
+  </style>
+
+
+
+<div class="container">
+<div class="item">
+       
 <div class="card" data-style="">
   <a href="https://github.com/" aria-label="Cool Dataset" class="card-image">
     <img src="/new-project/images/photo.jpg" alt="Cool Dataset" loading="lazy" onerror="this.src = '/new-project/images/fallback.svg'; this.onerror = null;">
@@ -579,6 +607,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   </div>
 </div>
 
+    </div>
+<div class="item">
+       
 <div class="card" data-style="">
   <a href="https://github.com/" aria-label="Cool Package" class="card-image">
     <img src="/new-project/images/photo.jpg" alt="Cool Package" loading="lazy" onerror="this.src = '/new-project/images/fallback.svg'; this.onerror = null;">
@@ -616,6 +647,11 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
     
   </div>
 </div>
+
+    </div>
+</div>
+
+
   </section>
 
   
@@ -631,6 +667,34 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 <h2 id="more">More</h2>
 
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* 样式定义 */
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    .item {
+      flex: 1 1 30%; /* 每行三个元素，每个元素约占30%的宽度 */
+      box-sizing: border-box;
+      margin-right: 2%; /* 控制元素之间的水平间距 */
+      margin-bottom: 20px; /* 控制元素之间的垂直间距 */
+    }
+
+    /* 处理每行最后一个元素不需要右侧间距的情况 */
+    .item:nth-child(3n) {
+      margin-right: 0; /* 去掉每行最后一个元素的右侧间距 */
+    }
+  </style>
+
+
+
+<div class="container">
+<div class="item">
+       
 <div class="card" data-style="small">
   <a href="https://github.com/" aria-label="Cool Tutorial" class="card-image">
     <img src="/new-project/images/photo.jpg" alt="Cool Tutorial" loading="lazy" onerror="this.src = '/new-project/images/fallback.svg'; this.onerror = null;">
@@ -673,6 +737,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   </div>
 </div>
 
+    </div>
+<div class="item">
+       
 <div class="card" data-style="small">
   <a href="https://github.com/" aria-label="Cool Web App" class="card-image">
     <img src="/new-project/images/photo.jpg" alt="Cool Web App" loading="lazy" onerror="this.src = '/new-project/images/fallback.svg'; this.onerror = null;">
@@ -711,6 +778,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   </div>
 </div>
 
+    </div>
+<div class="item">
+       
 <div class="card" data-style="small">
   <a href="https://github.com/" aria-label="Cool Web Server" class="card-image">
     <img src="/new-project/images/photo.jpg" alt="Cool Web Server" loading="lazy" onerror="this.src = '/new-project/images/fallback.svg'; this.onerror = null;">
@@ -748,6 +818,11 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
     
   </div>
 </div>
+
+    </div>
+</div>
+
+
   </section>
 
 

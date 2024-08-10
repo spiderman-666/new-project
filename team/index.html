@@ -522,6 +522,38 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p
   size: ;
 -->
 
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* 样式定义 */
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    .item {
+      flex: 1 1 30%; /* 每行三个元素，每个元素约占30%的宽度 */
+      box-sizing: border-box;
+      margin-right: 2%; /* 控制元素之间的水平间距 */
+      margin-bottom: 20px; /* 控制元素之间的垂直间距 */
+    }
+
+    /* 处理每行最后一个元素不需要右侧间距的情况 */
+    .item:nth-child(3n) {
+      margin-right: 0; /* 去掉每行最后一个元素的右侧间距 */
+    }
+  </style>
+
+
+
+<div class="container"><div class="item">
+      
+
+
+
+
+
 <div class="portrait-wrapper">
   <a href="/new-project/members/jane-smith.html" class="portrait" data-style="" aria-label="Jane Smith">
     <img src="/new-project/images/photo.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/new-project/images/fallback.svg'; this.onerror = null;">
@@ -547,6 +579,39 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p
 
   </a>
 </div>
+
+    </div></div>
+
+
+
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* 样式定义 */
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    .item {
+      flex: 1 1 30%; /* 每行三个元素，每个元素约占30%的宽度 */
+      box-sizing: border-box;
+      margin-right: 2%; /* 控制元素之间的水平间距 */
+      margin-bottom: 20px; /* 控制元素之间的垂直间距 */
+    }
+
+    /* 处理每行最后一个元素不需要右侧间距的情况 */
+    .item:nth-child(3n) {
+      margin-right: 0; /* 去掉每行最后一个元素的右侧间距 */
+    }
+  </style>
+
+
+
+<div class="container"></div>
+
+
   </section>
 
   
