@@ -29,7 +29,7 @@ nav:
 
 {% include section.html %}
 
-## Contact
+## Contact 
 
 地址：中国上海曹安公路4800号同济大学软件学院 <br>
 邮编：201804 <br>
