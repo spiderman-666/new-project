@@ -1,4 +1,29 @@
-- title: SOFTWARE - mmv_im2im
-  image: images/logo.png
+- title: 2023年气候预测与气候应用技术论坛邀请函
+  group: conference
+  image: images/photo4.png
   link: https://tiansheng-zhu.github.io/tian_xing/2023/11/08/invitation.html
+  description: A generic toolbox for microscopy image to image transformation
+
+- title: 人工智能气象应用发展研讨会邀请函
+  group: conference
+  image: images/photo6.png
+  link: https://tiansheng-zhu.github.io/tian_xing/2023/05/09/invitation.html
+  description: A generic toolbox for microscopy image to image transformation
+
+- title: 南方海洋科学与工程广东省实验室(珠海)关于召开“全球与区域气候预测及其生态效应”研讨会通知
+  group: conference
+  image: images/photo7.png
+  link: https://tiansheng-zhu.github.io/tian_xing/2023/04/27/notice.html
+  description: A generic toolbox for microscopy image to image transformation
+
+- title: 关于召开“2023年春季厄尔尼诺及气候预测会商”的通知 
+  group: conference
+  image: images/photo9.png
+  link: https://tiansheng-zhu.github.io/tian_xing/2023/02/22/notice.html
+  description: A generic toolbox for microscopy image to image transformation
+
+- title: 关于召开“2022年春夏季厄尔尼诺及气候预测会商”的通知 
+  group: conference
+  image: images/photo10.png
+  link: https://tiansheng-zhu.github.io/tian_xing/2022/03/02/notice.html
   description: A generic toolbox for microscopy image to image transformation

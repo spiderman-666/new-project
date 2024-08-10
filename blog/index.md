@@ -19,7 +19,7 @@ nav:
 
 ## Conferences
 
-{% include list.html component="card" data="tools" %}
+{% include list.html component="card" data="tools" filters="group: conference"%}
 
 {% include section.html %}
 
