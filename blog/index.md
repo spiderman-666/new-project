@@ -51,7 +51,7 @@ nav:
 
 {%
   include figure.html
-  image="images/sse.jpg"
+  image="images/sse.png"
   caption="同济大学软件学院"
 %}
 
