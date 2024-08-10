@@ -29,4 +29,42 @@ nav:
 
 {% include section.html %}
 
+## Contact
 
+地址：中国上海曹安公路4800号同济大学软件学院 <br>
+邮编：201804 <br>
+联系电话：86-21-69589585, 69589332(FAX)
+
+{%
+  include button.html
+  type="email"
+  text="email"
+%}
+
+{%
+  include button.html
+  type="address"
+  text="address"
+%}
+
+{% capture col1 %}
+
+{%
+  include figure.html
+  image="images/sse.jpg"
+  caption="同济大学软件学院"
+%}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{%
+  include figure.html
+  image="images/tongji.jpg"
+  caption="同济大学"
+%}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
