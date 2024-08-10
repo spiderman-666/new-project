@@ -6,7 +6,7 @@
   justify-content: stretch;
   align-items: center;
   flex-direction: column;
-  width: 150px;
+  width: 200px;
   max-width: calc(100% - 20px - 20px);
   margin: 15px;
   background: var(--background);
@@ -17,7 +17,7 @@
 }
 
 .card[data-style="small"] {
-  width: 100px;
+  width: 150px;
 }
 
 .card-image img {
