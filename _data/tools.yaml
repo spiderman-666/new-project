@@ -1,0 +1,4 @@
+- name: SOFTWARE - mmv_im2im
+  image: images/logo.png
+  link: _post/2023-04-17-invitation.md
+  description: A generic toolbox for microscopy image to image transformation

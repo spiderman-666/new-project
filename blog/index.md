@@ -17,6 +17,10 @@ nav:
 
 {% include search-info.html %}
 
-{% include news.html data="posts" component="post-excerpt" %}
+## Conferences
 
-{% include foot.html %}
+{% include list.html component="card" data="tools" %}
+
+{% include section.html %}
+
+
