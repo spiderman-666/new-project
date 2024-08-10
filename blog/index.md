@@ -23,4 +23,10 @@ nav:
 
 {% include section.html %}
 
+## Reports
+
+{% include list.html component="card" data="tools" filters="group: report"%}
+
+{% include section.html %}
+
 
