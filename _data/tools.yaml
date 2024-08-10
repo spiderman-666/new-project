@@ -1,67 +1,67 @@
-- name: 2023年气候预测与气候应用技术论坛邀请函
+- title: 2023年气候预测与气候应用技术论坛邀请函
   group: conference
   image: images/photo4.png
   link: https://tiansheng-zhu.github.io/tian_xing/2023/11/08/invitation.html
   description: A generic toolbox for microscopy image to image transformation
   date: 2023-11-08
 
-- name: 人工智能气象应用发展研讨会邀请函
+- title: 人工智能气象应用发展研讨会邀请函
   group: conference
   image: images/photo6.png
   link: https://tiansheng-zhu.github.io/tian_xing/2023/05/09/invitation.html
   description: A generic toolbox for microscopy image to image transformation
   date: 2023-05-09
 
-- name: 南方海洋科学与工程广东省实验室(珠海)关于召开“全球与区域气候预测及其生态效应”研讨会通知
+- title: 南方海洋科学与工程广东省实验室(珠海)关于召开“全球与区域气候预测及其生态效应”研讨会通知
   group: conference
   image: images/photo7.png
   link: https://tiansheng-zhu.github.io/tian_xing/2023/04/27/notice.html
   description: A generic toolbox for microscopy image to image transformation
   date: 2023-04-27
 
-- name: 关于召开“2023年春季厄尔尼诺及气候预测会商”的通知 
+- title: 关于召开“2023年春季厄尔尼诺及气候预测会商”的通知 
   group: conference
   image: images/photo9.png
   link: https://tiansheng-zhu.github.io/tian_xing/2023/02/22/notice.html
   description: A generic toolbox for microscopy image to image transformation
   date: 2023-02-22
 
-- name: 关于召开“2022年春夏季厄尔尼诺及气候预测会商”的通知 
+- title: 关于召开“2022年春夏季厄尔尼诺及气候预测会商”的通知 
   group: conference
   image: images/photo10.png
   link: https://tiansheng-zhu.github.io/tian_xing/2022/03/02/notice.html
   description: A generic toolbox for microscopy image to image transformation
   date: 2022-03-02
 
-- name: 人工智能新技术在台风预北务中的应用 
+- title: 人工智能新技术在台风预北务中的应用 
   group: report
   image: images/photo1.png
   link: https://tiansheng-zhu.github.io/tian_xing/2024/01/10/invitation.html
   description: A generic toolbox for microscopy image to image transformation
   date: 2024-01-10
 
-- name: 辐射参数化方案的AI模型及与WRF模式的集成 
+- title: 辐射参数化方案的AI模型及与WRF模式的集成 
   group: report
   image: images/photo2.png
   link: https://tiansheng-zhu.github.io/tian_xing/2024/01/09/report.html
   description: A generic toolbox for microscopy image to image transformation
   date: 2024-01-09
 
-- name: 全球天气预报大模型Weaformer 
+- title: 全球天气预报大模型Weaformer 
   group: report
   image: images/photo3.png
   link: https://tiansheng-zhu.github.io/tian_xing/2024/01/09/invitation.html
   description: A generic toolbox for microscopy image to image transformation
   date: 2024-01-09
 
-- name: 人工智能气象应用发展研讨会日程 
+- title: 人工智能气象应用发展研讨会日程 
   group: report
   image: images/photo5.png
   link: https://tiansheng-zhu.github.io/tian_xing/2023/05/18/notice.html
   description: A generic toolbox for microscopy image to image transformation
   date: 2023-05-18
 
-- name: 人工智能的气象应用研讨会邀请函 
+- title: 人工智能的气象应用研讨会邀请函 
   group: report
   image: images/photo8.png
   link: https://tiansheng-zhu.github.io/tian_xing/2023/04/17/invitation.html
