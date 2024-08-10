@@ -34,6 +34,10 @@
       <span class="card-subtitle">{{ include.subtitle }}</span>
     {% endif %}
 
+    {% if include.date %}
+      <span class="card-date">{{ include.date }}</span>
+    {% endif %}
+    
     {% if include.description %}
       <p>
         {{ include.description | markdownify | remove: "<p>" | remove: "</p>" }}
