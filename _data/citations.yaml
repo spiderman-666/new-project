@@ -1,247 +1,750 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.5194/gmd-15-4105-2022
+  title: Simulation, precursor analysis and targeted observation sensitive area identification
+    for two types of ENSO using ENSO-MC v1.0
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Bin Mu
+  - Yuehan Cui
+  - Shijin Yuan
+  - Bo Qin
+  publisher: European Geosciences Union
+  date: '2022-05-25'
+  link: https://gmd.copernicus.org/articles/15/4105/2022/
+  tags: ENSO, Prediction
+  image: https://gmd.copernicus.org/articles/15/4105/2022/gmd-15-4105-2022-avatar-web.png
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+- id: doi:10.5194/gmd-14-6977-2021
+  title: "ENSO-ASC 1.0.0: ENSO deep learning forecast model with a multivariate air\u2013\
+    sea coupler\n"
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Bin Mu
+  - Bo Qin
+  - Shijin Yuan
+  publisher: European Geosciences Union
+  date: '2021-11-17'
+  link: https://doi.org/10.5194/gmd-14-6977-2021
+  tags: ENSO, Deep Learning, Air-Sea Coupler
+  image: images/research/202111_ENSO deep learning forecast model A survey.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1007/s00500-021-06639-8
+  title: Feature extraction-based intelligent algorithm framework with neural network
+    for solving conditional nonlinear optimal perturbation
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Shijin Yuan
+  - Huazhen Zhang
+  - Yaxuan Liu
+  - Bin Mu
+  publisher: Springer
+  date: '2022-01-29'
+  link: https://link.springer.com/article/10.1007/s00500-021-06639-8
+  tags: ENSO, intelligent algorithm
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00500-021-06639-8/MediaObjects/500_2021_6639_Fig1_HTML.png?as=webp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1155/2022/6141966
+  title: 'The NAO Variability Prediction and Forecasting with Multiple Time Scales
+    Driven by ENSO Using Machine Learning Approaches
+
+    '
+  authors:
+  - Bin Mu
+  - Jing Li
+  - Shijin Yuan
+  - Xiaodan Luo
+  publisher: Wiley
+  date: '2022-04-15'
+  link: https://doi.org/10.1155/2022/6141966
+  tags: NAO, ENSO, Machine Learning
+  image: images/research/202204_The NAO Variability Prediction and Forecasting with
+    Multiple Time Scales Driven by ENSO Using Machine Learning Approaches.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.5194/npg-2020-27
+  title: Optimal Precursors Identification for North Atlantic Oscillation using CESM
+    and CNOP Method
+  authors:
+  - Bin Mu
+  - Jing Li
+  - Shijin Yuan
+  - Xiaodan Luo
+  - Guokun Dai
+  publisher: European Geosciences Union
+  date: '2020-07-01'
+  link: https://npg.copernicus.org/preprints/npg-2020-27/
+  tags: ENSO, CNOP
+  image: https://onlinelibrary.wiley.com/cms/asset/782d5b32-7595-46c5-9419-ee3c23cef6b3/scpr3215039-fig-0002-m.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.46267/j.1006-8775.2022.010
+  title: 'Ensemble Forecast for Tropical Cyclone Based on CNOP-P Method: A Case Study
+    of WRF Model and Two Typhoons
+
+    '
+  authors:
+  - Yuan Shijin
+  - Shi Bo
+  - Zhao Zijun
+  - Mu Bin
+  - Zhou Feifan
+  - Duan Wansuo
+  publisher: Journal of Tropical Meteorology
+  date: '2022-06-10'
+  link: https://jtm.itmm.org.cn/en/article/doi/10.46267/j.1006-8775.2022.010
+  tags: ENSO, typhoon, CNOP
+  image: https://jtm.itmm.org.cn/fileRDQXXB_EN/journal/article/rdqxxben/2022/2/jotm-28-2-121-2.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/a14030083
+  title: 'Typhoon Intensity Forecasting Based on LSTM Using the Rolling Forecast Method
+
+    '
+  authors:
+  - Shijin Yuan
+  - Cheng Wang
+  - Bin Mu
+  - Feifan Zhou
+  - Wansuo Duan
+  publisher: MDPI
+  date: '2021-03-04'
+  link: https://doi.org/10.3390/a14030083
+  tags: LSTM, Typhoon Forecasting, Rolling Forecast
+  image: images/research/202103_Typhoon Intensity Forecasting Based on LSTM Using
+    the Rolling Forecast Method.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICCSNT.2013.6967098
+  title: Code parallel refactoring of the Zebiak-Cane model based on JASMIN
+  authors:
+  - Hongyu Li
+  - Jiachuan Qin
+  - Shijin Yuan
+  - Jie Bian
+  publisher: IEEE
+  date: '2014-12-01'
+  link: https://ieeexplore.ieee.org/document/6967098
+  tags: JASMIN, Zebiak-Cane model, Parallel Computing
+  image: images/research/201310_Code parallel refactoring of the Zebiak-Cane model
+    based on JASMIN.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/HPCC.and.EUC.2013.193
+  title: 'ACStack: Adaptive Composite Stack for Adjoint Models in Code Optimization
+
+    '
+  authors:
+  - Hongyu Li
+  - Weiyu Zhou
+  - Shijin Yuan
+  - Shicheng Wen
+  publisher: IEEE
+  date: '2014-06-12'
+  link: https://ieeexplore.ieee.org/document/6825546
+  tags: Adjoint Model, Code Optimization, Numerical Weather Forecasting
+  image: images/research/201311_ACStack  Adaptive composite stack for adjoint models
+    in code optimization.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1177/1094342013495096
+  title: 'An optimization framework for adjoint-based climate simulations: A case
+    study of the Zebiak-Cane model
+
+    '
+  authors:
+  - Shijin Yuan
+  - Shicheng Wen
+  - Qin Liu
+  publisher: Sage Journals
+  date: '2013-07-11'
+  link: https://doi.org/10.1177/1094342013495096
+  tags: Adjoint-based Simulations, Climate Simulations, Zebiak-Cane model
+  image: images/research/201405_An optimization framework for adjoint-based climate
+    simulations A case study of the Zebiak-Cane model, International Journal of High
+    Performance Computing Applications.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/HPCC.and.EUC.2013.134
+  title: Parallel Optimization of the MM5 Adjoint Model
+  authors:
+  - Hongyu Li
+  - Jie Bian
+  - Shijin Yuan
+  - Jiachuan Qin
+  publisher: IEEE
+  date: '2014-06-12'
+  link: https://ieeexplore.ieee.org/document/6832016/metrics#metrics
+  tags: MM5, Adjoint Model, Parallel Computing
+  image: images/research/201311_Parallel Optimization of the MM5 Adjoint Model.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-319-09339-0_12
+  title: Orthogonal Neighborhood Preservation Projection Based Method for Solving
+    CNOP
+  authors:
+  - Bin Mu
+  - Shicheng Wen
+  - Shijin Yuan
+  - Hongyu Li
+  publisher: Springer
+  date: '2014-08-01'
+  link: https://link.springer.com/chapter/10.1007/978-3-319-09333-8_14
+  tags: CNOP, Numerical Models, Adjoint-based Method
+  image: images/research/201408_Orthogonal Neighborhood Preservation Projection Based
+    Method for Solving CNOP.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-319-11194-0_58
+  title: 'SAEP: Simulated Annealing Based Ensemble Projecting Method for Solving Conditional
+    Nonlinear Optimal Perturbation
+
+    '
+  authors:
+  - Shicheng Wen
+  - Shijin Yuan
+  - Bin Mu
+  - Hongyu Li
+  - Lei Chen
+  publisher: Springer
+  date: '2014-08-02'
+  link: https://link.springer.com/chapter/10.1007/978-3-319-11197-1_51
+  tags: CNOP, Simulated Annealing, Nonlinear Perturbation
+  image: images/research/201408_SAEP Simulated Annealing Based Ensemble Projecting
+    Method for Solving Conditional Nonlinear Optimal Perturbation.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-319-11740-9_54
+  title: QoS-Aware Cloud Service Selection Based on Uncertain User Preference
+  authors:
+  - Bin Mu
+  - Su Li
+  - Shijin Yuan
+  publisher: Springer
+  date: '2014-10-01'
+  link: https://link.springer.com/chapter/10.1007/978-3-319-11740-9_54
+  tags: Cloud Service, QoS, User Preference
+  image: images/research/201410_QoS-Aware Cloud Service Selection Based on Uncertain
+    User Preference.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/CEC.2015.7257067
+  title: 'PCGD: Principal components-based great deluge method for solving CNOP
+
+    '
+  authors:
+  - Shicheng Wen
+  - Shijin Yuan
+  - Bin Mu
+  - Hongyu Li
+  - Juhui Ren
+  publisher: IEEE
+  date: '2015-09-14'
+  link: https://ieeexplore.ieee.org/document/7257067
+  tags: CNOP, Principal Components, Great Deluge Method
+  image: images/research/201505_PCGD Principal components-based great deluge method
+    for solving CNOP.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICWS.2015.83
+  title: User-QoS-Based Web Service Clustering for QoS Prediction
+  authors:
+  - Fuxin Chen
+  - Shijin Yuan
+  - Bin Mu
+  publisher: IEEE
+  date: '2015-08-17'
+  link: https://ieeexplore.ieee.org/document/7195618
+  tags: QoS, Web Service, Clustering
+  image: images/research/201506_User-QoS-based Web Service Clustering for QoS Prediction.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/IJCNN.2015.7280522
+  title: 'PCAGA: Principal component analysis based genetic algorithm for solving
+    conditional nonlinear optimal perturbation
+
+    '
+  authors:
+  - Bin Mu
+  - Linlin Zhang
+  - Shijin Yuan
+  - Hongyu Li
+  publisher: IEEE
+  date: '2015-10-01'
+  link: https://ieeexplore.ieee.org/document/7280522
+  tags: CNOP, Genetic Algorithm, Principal Component Analysis
+  image: images/research/201507_PCAGA Principal Component Analysis Based Genetic Algorithm
+    for Solving Conditional Nonlinear Optimal Perturbation.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-319-26535-3_11
+  title: 'Parallel Cooperative Co-evolution Based Particle Swarm Optimization Algorithm
+    for Solving Conditional Nonlinear Optimal Perturbation
+
+    '
+  authors:
+  - Shijin Yuan
+  - Li Zhao
+  - Bin Mu
+  publisher: Springer
+  date: '2015-11-09'
+  link: https://doi.org/10.1007/978-3-319-26535-3_11
+  tags: PSO, Co-evolution, CNOP
+  image: images/research/201511_Parallel Cooperative Co-evolution Based Particle Swarm
+    Optimization Algorithm for Solving Conditional Nonlinear Optimal Perturbation.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1504/IJCSE.2015.073494
+  title: 'Robust ensemble feature extraction for solving conditional nonlinear optimal
+    perturbation
+
+    '
+  authors:
+  - Shicheng Wen
+  - Shijin Yuan
+  - Hongyu Li
+  - Bin Mu
+  publisher: Inderscience
+  date: '2015-12-01'
+  link: https://doi.org/10.1504/IJCSE.2015.073494
+  tags: Ensemble, Feature Extraction, CNOP
+  image: images/research/201511_Robust ensemble feature extraction for solving conditional
+    nonlinear optimal perturbation.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/HPCC-SmartCity-DSS.2016.0055
+  title: 'Parallel Modified Artificial Bee Colony Algorithm for Solving Conditional
+    Nonlinear Optimal Perturbation
+
+    '
+  authors:
+  - Juhui Ren
+  - Shijin Yuan
+  - Bin Mu
+  publisher: IEEE
+  date: '2016-12-14'
+  link: https://doi.org/10.1109/HPCC-SmartCity-DSS.2016.0055
+  tags: MABC, CNOP, Parallel Computing
+  image: images/research/201612_Parallel modified artificial bee colony algorithm
+    for solving conditional nonlinear optimal perturbation.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/HPCC-SmartCity-DSS.2016.0049
+  title: 'PCAFP for Solving CNOP in Double-Gyre Variation and Its Parallelization
+    on Clusters
+
+    '
+  authors:
+  - Shijin Yuan
+  - Mi Li
+  - Bin Mu
+  - Jingpeng Wang
+  publisher: IEEE
+  date: '2016-12-14'
+  link: https://doi.org/10.1109/HPCC-SmartCity-DSS.2016.0049
+  tags: PCAFP, CNOP, Parallelization
+  image: images/research/201612_PCAFP for Solving CNOP in Double-Gyre Variation and
+    its Parallelization on Clusters.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/IJCNN.2017.7966136
+  title: 'Parallel dynamic search fireworks algorithm with linearly decreased dimension
+    number strategy for solving conditional nonlinear optimal perturbation
+
+    '
+  authors:
+  - Bin Mu
+  - Junhui Zhao
+  - Shijin Yuan
+  - Jinghao Yan
+  publisher: IEEE
+  date: '2017-05-14'
+  link: https://doi.org/10.1109/IJCNN.2017.7966136
+  tags: dynFWA, CNOP, Parallelization
+  image: images/research/201705_Parallel Dynamic Search Fireworks Algorithm with Linearly
+    Decreased Dimension Number Strategy for Solving Conditional Nonlinear Optimal
+    Perturbation.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/FSKD.2017.8393403
+  title: 'An improved effective approach for urban air quality forecast
+
+    '
+  authors:
+  - Bin Mu
+  - Site Li
+  - Shijin Yuan
+  publisher: IEEE
+  date: '2017-07-29'
+  link: https://doi.org/10.1109/FSKD.2017.8393403
+  tags: Air Quality, Forecasting, PCA
+  image: images/research/201707_An improved effective approach for urban air quality
+    forecast.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1155/2017/3208431
+  title: 'An Efficient Approach Based on the Gradient Definition for Solving Conditional
+    Nonlinear Optimal Perturbation
+
+    '
+  authors:
+  - Bin Mu
+  - Juhui Ren
+  - Shijin Yuan
+  publisher: Wiley
+  date: '2017-11-14'
+  link: https://doi.org/10.1155/2017/3208431
+  tags: Gradient, CNOP, Optimization
+  image: images/research/201711_An efficient approach based on the gradient definition
+    for solving conditional nonlinear optimal perturbation.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.5194/npg-25-693-2018
+  title: 'A novel approach for solving CNOPs and its application in identifying sensitive
+    regions of tropical cyclone adaptive observations
+
+    '
+  authors:
+  - Linlin Zhang
+  - Bin Mu
+  - Shijin Yuan
+  - Feifan Zhou
+  publisher: European Geosciences Union
+  date: '2018-09-13'
+  link: https://doi.org/10.5194/npg-25-693-2018
+  tags: CNOP, PSO, Tropical Cyclones
+  image: images/research/201809_A novel approach for solving CNOPs and its application
+    in identifying sensitive regions of tropical cyclone adaptive observations.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s13143-018-0068-1
+  title: 'Identifying Typhoon Targeted Observations Sensitive Areas Using the Gradient
+    Definition Based Method
+
+    '
+  authors:
+  - Bin Mu
+  - Juhui Ren
+  - Shijin Yuan
+  - Feifan Zhou
+  publisher: Springer
+  date: '2018-10-26'
+  link: https://doi.org/10.1007/s13143-018-0068-1
+  tags: CNOP, Gradient Method, Typhoon Observations
+  image: images/research/201810_Identifying Typhoon Targeted Observations Sensitive
+    Areas Using the Gradient Definition Based Method.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00343-019-7235-9
+  title: 'Optimal precursors of double-gyre regime transitions with an adjoint-free
+    method
+
+    '
+  authors:
+  - Shijin Yuan
+  - Mi Li
+  - Qiang Wang
+  - Kun Zhang
+  - Huazhen Zhang
+  - Bin Mu
+  publisher: Springer
+  date: '2019-03-25'
+  link: https://link.springer.com/article/10.1007/s00343-019-7235-9
+  tags: Double-Gyre, CNOP, Adjoint-Free Method
+  image: images/research/201903_Optimal precursors of double-gyre regime transitions
+    with an adjoint-free method.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00343-019-7266-2
+  title: 'CNOP-P-based parameter sensitivity for double-gyre variation in ROMS with
+    simulated annealing algorithm
+
+    '
+  authors:
+  - Shijin Yuan
+  - Huazhen Zhang
+  - Mi Li
+  - Bin Mu
+  publisher: Springer
+  date: '2019-05-28'
+  link: https://doi.org/10.1007/s00343-019-7266-2
+  tags: CNOP-P, Parameter Sensitivity, Simulated Annealing
+  image: images/research/201905_CNOP-P-based parameter sensitivity for double-gyre
+    variation in ROMS with simulated annealing algorithm.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/HPCC/SmartCity/DSS.2019.00165
+  title: 'Parallel PCA-Based Bacterial Foraging Optimization Algorithm for Identifying
+    Optimal Precursors of North Atlantic Oscillation
+
+    '
+  authors:
+  - Bin Mu
+  - Jing Li
+  - Shijin Yuan
+  - Xiaodan Luo
+  - Guokun Dai
+  publisher: IEEE
+  date: '2019-08-10'
+  link: https://doi.org/10.1109/HPCC/SmartCity/DSS.2019.00165
+  tags: PCA, BFOA, NAO
+  image: images/research/201908_Parallel PCA-Based Bacterial Foraging Optimization
+    Algorithm for Identifying Optimal Precursors of North Atlantic Oscillation.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICEIEC49280.2020.9152317
+  title: "Applying Convolutional LSTM Network to Predict El Ni\xF1o Events: Transfer\
+    \ Learning from The Data of Dynamical Model and Observation\n"
+  authors:
+  - Bin Mu
+  - Shaoyang Ma
+  - Shijin Yuan
+  - Hui Xu
+  publisher: IEEE
+  date: '2020-07-17'
+  link: https://ieeexplore.ieee.org/abstract/document/9152317
+  tags: "ConvLSTM, El Ni\xF1o, Transfer Learning"
+  image: images/research/202007_Applying Convolutional LSTM Network to Predict El
+    Nino Events Transfer Learning from The Data of Dynamical Model and Observation.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1155/2020/2413041
+  title: 'Prediction of North Atlantic Oscillation Index Associated with the Sea Level
+    Pressure Using DWT-LSTM and DWT-ConvLSTM Networks
+
+    '
+  authors:
+  - Bin Mu
+  - Jing Li
+  - Shijin Yuan
+  - Xiaodan Luo
+  publisher: Wiley
+  date: '2020-10-05'
+  link: https://doi.org/10.1155/2020/2413041
+  tags: DWT-LSTM, ConvLSTM, NAO
+  image: images/research/202010_Prediction of North Atlantic Oscillation Index Associated
+    with the Sea Level Pressure Using DWT-LSTM and DWT-ConvLSTM Networks.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1155/2020/7897824
+  title: 'A Climate Downscaling Deep Learning Model considering the Multiscale Spatial
+    Correlations and Chaos of Meteorological Events
+
+    '
+  authors:
+  - Bin Mu
+  - Bo Qin
+  - Shijin Yuan
+  - Xiaoyun Qin
+  publisher: Wiley
+  date: '2020-11-16'
+  link: https://doi.org/10.1155/2020/7897824
+  tags: Climate Downscaling, Deep Learning, Meteorological Events
+  image: images/research/202011_A climate downscaling deep learning model considering
+    the multiscale spatial correlations and chaos of meteorological events.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3449301.3449334
+  title: 'Efficient Executions of Community Earth System Model onto Accelerators Using
+    GPUs
+
+    '
+  authors:
+  - Shijin Yuan
+  - Cheng Wang
+  - Bin Mu
+  - Xiaodan Luo
+  publisher: ACM
+  date: '2021-06-09'
+  link: https://doi.org/10.1145/3449301.3449334
+  tags: CESM, GPU, CUDA
+  image: images/research/202011_Efficient Executions of Community Earth System Model
+    onto Accelerators Using GPUs.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1029/2022MS003132
+  title: 'ENSO-GTC: ENSO Deep Learning Forecast Model With a Global Spatial-Temporal
+    Teleconnection Coupler
+
+    '
+  authors:
+  - Bin Mu
+  - Bo Qin
+  - Shijin Yuan
+  publisher: American Geophysical Union
+  date: '2022-12-15'
+  link: https://doi.org/10.1029/2022MS003132
+  tags: ENSO, Deep Learning, Teleconnection
+  image: images/research/202212_ENSO-GTC ENSO Deep Learning Forecast Model with a
+    Global Spatial-Temporal Teleconnection Coupler.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/LGRS.2023.3250642
+  title: 'PIRT: A Physics-Informed Red Tide Deep Learning Forecast Model Considering
+    Causal-Inferred Predictors Selection
+
+    '
+  authors:
+  - Bin Mu
+  - Bo Qin
+  - Shijin Yuan
+  - Xin Wang
+  - Yuxuan Chen
+  publisher: IEEE
+  date: '2023-03-01'
+  link: https://doi.org/10.1109/LGRS.2023.3250642
+  tags: Red Tide, Deep Learning, Causal Inference
+  image: images/research/202303_PIRT A Physics-informed Red Tide Deep Learning Forecast
+    Model Considering Causal-inferred Predictors Selection.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/jmse11050910
+  title: 'Error Evolutions and Analyses on Joint Effects of SST and SL via Intermediate
+    Coupled Models and Conditional Nonlinear Optimal Perturbation Method
+
+    '
+  authors:
+  - Bin Mu
+  - Xiaoyun Qin
+  - Shijin Yuan
+  - Bo Qin
+  publisher: MDPI
+  date: '2023-04-24'
+  link: https://doi.org/10.3390/jmse11050910
+  tags: SST, CNOP
+  image: images/research/202304_Error Evolutions and Analyses on Joint Effects of
+    SST and SL via Intermediate Coupled Models and Conditional Nonlinear Optimal Perturbation
+    Method.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cageo.2023.105375
+  title: 'Dimension shifting based intelligent algorithm framework to solve conditional
+    nonlinear optimal perturbation
+
+    '
+  authors:
+  - Shijin Yuan
+  - Yaxuan Liu
+  - Huazhen Zhang
+  - Bin Mu
+  publisher: Elsevier
+  date: '2023-07-01'
+  link: https://doi.org/10.1016/j.cageo.2023.105375
+  tags: Dimension Shifting, CNOP, Intelligent Algorithm
+  image: images/research/202307_Dimension shifting based intelligent algorithm framework
+    to solve conditional nonlinear optimal perturbation.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.5194/gmd-16-4677-2023
+  title: 'IceTFT v1.0.0: interpretable long-term prediction of Arctic sea ice extent
+    with deep learning
+
+    '
+  authors:
+  - Bin Mu
+  - Xiaodan Luo
+  - Shijin Yuan
+  - Xi Liang
+  publisher: European Geosciences Union
+  date: '2023-08-18'
+  link: https://doi.org/10.5194/gmd-16-4677-2023
+  tags: Arctic Sea Ice, Deep Learning, IceTFT
+  image: images/research/202308_IceTFT v1.0.0 Interpretable Long-Term Prediction of
+    Arctic Sea Ice Extent with Deep Learning.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.aosl.2023.100407
+  title: "A generative adversarial network\u2013based unified model integrating bias\
+    \ correction and downscaling for global SST\n"
+  authors:
+  - Shijin Yuan
+  - Xin Feng
+  - Bin Mu
+  - Bo Qin
+  - Xin Wang
+  - Yuxuan Chen
+  publisher: Atmospheric and Oceanic Science Letters
+  date: '2024-01-31'
+  link: https://doi.org/10.1016/j.aosl.2023.100407
+  tags: SST, GAN, Bias Correction, Downscaling
+  image: images/research/202401_A GAN-based Unified Model Integrating Bias Correction
+    and Downscaling for Global SST.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.atmosres.2024.107306
+  title: 'Developing intelligent Earth System Models: An AI framework for replacing
+    sub-modules based on incremental learning and its application
+
+    '
+  authors:
+  - Bin Mu
+  - Zi-Jun Zhao
+  - Shi-Jin Yuan
+  - Bo Qin
+  - Guo-Kun Dai
+  - Guan-Bo Zhou
+  publisher: Atmospheric Research
+  date: '2024-06-01'
+  link: https://doi.org/10.1016/j.atmosres.2024.107306
+  tags: AI, Incremental Learning
+  image: images/research/202402_Developing intelligent Earth System Models An AI framework
+    for replacing sub-modules based on incremental learning and its application.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ocemod.2024.102326
+  title: 'A deep learning-based bias correction model for Arctic sea ice concentration
+    towards MITgcm
+
+    '
+  authors:
+  - Shijin Yuan
+  - Shichen Zhu
+  - Xiaodan Luo
+  - Bin Mu
+  publisher: Ocean Modelling
+  date: '2024-04-01'
+  link: https://doi.org/10.1016/j.ocemod.2024.102326
+  tags: Arctic Sea Ice, Deep Learning
+  image: images/research/202404_A deep learning-based bias correction model for Arctic
+    sea ice concentration towards MITgcm.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ocemod.2024.102344
+  title: 'Multivariate Upstream Kuroshio Transport (UKT) Prediction and Targeted Observation
+    Sensitive Area Identification of UKT Seasonal Reduction
+
+    '
+  authors:
+  - Bin Mu
+  - Yifan Yang-Hu
+  - Bo Qin
+  - Shijin Yuan
+  publisher: Ocean Modelling
+  date: '2024-06-01'
+  link: https://doi.org/10.1016/j.ocemod.2024.102344
+  tags: UKT, Kuroshio Transport
+  image: images/research/202406_Multivariate Upstream Kuroshio Transport (UKT) prediction
+    and targeted observation sensitive area identification of UKT seasonal reduction.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11430-023-1383-6
+  title: 'A deep learning-based global tropical cyclogenesis prediction model and
+    its interpretability analysis
+
+    '
+  authors:
+  - Bin Mu
+  - Xin Wang
+  - Shijin Yuan
+  - Yuxuan Chen
+  - Guansong Wang
+  - Bo Qin
+  - Guanbo Zhou
+  publisher: Springer
+  date: '2024-08-02'
+  link: https://doi.org/10.1007/s11430-023-1383-6
+  tags: Deep Learning, Model Interpretability, Prediction
+  image: images/research/202407_A deep learning-based global tropical cyclogenesis
+    prediction model and its interpretability analysis.png
   plugin: sources.py
   file: sources.yaml

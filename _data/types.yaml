@@ -26,6 +26,16 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
+# newly added
+
+tutor:
+  icon: fa-solid fa-glasses
+  description: Tutor
+
+master:
+  icon: fa-solid fa-user-graduate
+  description: Master's Student
+
 # general
 
 link:
